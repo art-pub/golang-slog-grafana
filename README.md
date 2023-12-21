@@ -210,6 +210,9 @@ bash$ docker-compose up # <-- start this from this projects root directory
 After a few seconds you can access [Grafana on localhost](http://localhost:3000):
 ![Screenshot of our Grafana Dashboard with our app running in the background](./screenshot.png)
 
+- [x] We want to display these statistics within grafana, running in a container.
+
+
 # A few more notes
 
 > [!TIP]
